@@ -1,6 +1,4 @@
-# Invictus : CodeCrunchML
-
-## Problem Statement 1: Designing a Balanced Neural Network for Facial Expression Recognition
+# Problem Statement 1: Designing a Balanced Neural Network for Facial Expression Recognition
 
 ## Introduction
 <table style="border: none;">
@@ -12,7 +10,8 @@
 ## Objective
 To develop an improved system that can identify the appropriate emotion based on the user's exact facial expression at that specific moment. 
 
-[PPT.pdf](https://github.com/abhi03ruchi/Invictus/files/14260491/PPT.pdf)
+Presentation Link : https://www.canva.com/design/DAF7tkAn4AQ/RHgLFuZlh2fZ-XFnWOLazQ/edit?utm_content=DAF7tkAn4AQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Download PDF : [PPT.pdf](https://github.com/abhi03ruchi/Invictus/files/14260491/PPT.pdf)
 
 ## Backstory: Why We Built This Project
 Although many assert to have an almost flawless system and to provide outcomes under ideal and favorable circumstances. Developing a system that is definitive in nature will be hampered by the great range of expressions people display and the variation in facial features among individuals. 
