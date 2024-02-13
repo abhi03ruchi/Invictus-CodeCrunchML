@@ -1,4 +1,5 @@
-# Invictus
+# Invictus : CodeCrunchML
+
 ## Problem Statement 1: Designing a Balanced Neural Network for Facial Expression Recognition
 
 ## Introduction
