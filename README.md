@@ -19,7 +19,7 @@ Therefore, creating a dependable system free of any defects found in the current
 In today’s world the facial expression of the individuals is one of the prime source of study to determine the emotional state of the people. But the dataset available is highly imbalanced ,so dealing with it a great problem.
 
 ## Technologies Used :
-<div>
+<div align="center" >
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
