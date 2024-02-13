@@ -1,4 +1,4 @@
-# Problem Statement 1: Designing a Balanced Neural Network for Facial Expression Recognition
+### Problem Statement 1: Designing a Balanced Neural Network for Facial Expression Recognition
 
 ## Introduction
 <table style="border: none;">
